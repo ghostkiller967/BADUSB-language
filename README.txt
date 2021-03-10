@@ -26,7 +26,7 @@ look at the bottom for all the special keys.
 DELAY - add a number after this to make it wait that amount of miliseconds.
 
 
-DOWNLOADFILE - add a direct download link after it and it will download that file.
+DOWNLOADFILE - add a direct download link after it and it will download that file (example: DOWNLOADFILE https://exemple.link/download.png).
 STARTPROCESS - add a directory with file and it will start that process (example: C:/WINDOWS/system32/notepad.exe) WARNING: MUST USE / INSTEAD OF \.
 DELETEFILE - add a directory with file and it will delete that file (example: C:/Users/<username>/desktop/Google Chrome.lnk) WARNING: MUST USE / INSTEAD OF \.
 DELETEDIR - add a directory and it will delete that directory (example: C:/Users/<username>/roaming) WARNING: MUST USE / INSTEAD OF \.
