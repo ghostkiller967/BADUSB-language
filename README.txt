@@ -57,7 +57,7 @@ GUI - will press the windows key (not hold).
 
 special keys for STRING and STRINGWAIT command:
 
-BACKSPACE	{BACKSPACE}, {BS}, or {BKSP}
+BACKSPACE	{BACKSPACE}, {BS} or {BKSP}
 BREAK		{BREAK}
 CAPS LOCK	{CAPSLOCK}
 DEL or DELETE	{DELETE} or {DEL}
